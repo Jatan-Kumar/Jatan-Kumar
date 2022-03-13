@@ -8,6 +8,7 @@
 - 📫 How to reach me 
 ### Email: Jatan-c.k@hotmail.com
 
+please refer to [ Application ] repo for my portfolio.
 <!---
 Jatan-Kumar/Jatan-Kumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
