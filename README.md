@@ -1,9 +1,14 @@
+
 👋 Hey there! I'm Jatan Kumar, a passionate REACT.js Front-End Software Developer with over 4 years of experience in the tech industry. I believe in continuous learning and staying ahead of the curve in the ever-evolving world of technology.
 
 ### About Me
 - 🌍 Citizen of the World: Originally from Mozambique, I graduated in South Africa and currently work in Portugal. My diverse background enriches my perspective and approach to problem-solving.
 - 🎓 Education: I hold a Bachelor's degree in Information and Computer Sciences with a specialization in Application Development, as well as a Diploma in Information Sciences focused on Software Development.
 - 💼 Professional Journey: From disassembling school computers in grade 5 to freelancing as a React Front-End Developer and joining BOOST-I.T as a Web Developer/Web Analyst, my journey has been fueled by curiosity and a passion for technology.
+- 🗣 Language Skills:
+  - Fluent in English (Native, Professional).
+  - Fluent in Portuguese (Native, Professional).
+  - Fluent in Hindi (Native, Professional).
 
 ### My Story
 I've been immersed in technology since childhood. My journey began with hardware tinkering in grade 5, followed by building local websites with HTML and CSS in grade 8. Throughout high school, I delved deeper into information systems and pursued qualifications in Software Development and Computer and Information Sciences in Applications.
